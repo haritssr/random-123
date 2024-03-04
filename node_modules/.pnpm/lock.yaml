@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  split-add:
+    specifier: ^1.0.3
+    version: 1.0.3
+
+packages:
+
+  /split-add@1.0.3:
+    resolution: {integrity: sha512-IEAe5N25U2rqLVFt5RH53Iona6hNH4xtTCP/iDxStq73UxMsiODYaAX07gzilO2R1CQ2QEFUjCuOqyaMzPghWA==}
+    dev: false
